@@ -1,0 +1,6 @@
+framework module PBFrameworkNetworkingLibraries {
+  umbrella header "PBFrameworkNetworkingLibraries.h"
+
+  export *
+  module * { export * }
+}
