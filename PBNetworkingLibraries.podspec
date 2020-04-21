@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'PBNetworkingLibraries'
-  s.version          = '1.5.0.3'
+  s.version          = '1.5.3.1'
   s.summary          = 'A short description of PBNetworkingLibraries.'
 
 # This description is used to generate tags and improve search results.
